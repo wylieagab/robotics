@@ -1,0 +1,2 @@
+HSV Color Map 
+https://stackoverflow.com/questions/47483951/how-to-define-a-threshold-value-to-detect-only-green-colour-objects-in-an-image/47483966#47483966
